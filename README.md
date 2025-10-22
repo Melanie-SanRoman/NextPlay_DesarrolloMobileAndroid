@@ -2,6 +2,20 @@
 
 NextPlay es una aplicación Android nativa diseñada para ayudar a los jugadores a descubrir nuevos videojuegos. La aplicación consume la API pública de [RAWG.io](https://rawg.io/apidocs) para mostrar un extenso catálogo de juegos, permitiendo a los usuarios buscar, filtrar y organizar la información según sus preferencias.
 
+## Alumna
+- San Román, Melanie.
+- DNI: 45.577.753
+- srmel123@gmail.com
+- Tres Arroyos.
+
+## Estado actual
+
+La aplicación se encuentra en desarrollo. Las funcionalidades principales ya están implementadas y se continúa trabajando en mejoras visuales e interacción con la API.
+
+---
+
+¡Gracias por leer! 
+
 ![Screenshot de la App (placeholder)](next_play_prev.png)
 
 ## Características Principales
