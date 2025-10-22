@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NextPlay</string>
+    <string name="title_games">Games</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="question_introduction">What are you going to play today?</string>
+    <string name="error">An error occurred</string>
+    <string name="search">Search</string>
+    <string name="game_name_tx">Game name</string>
+    <string name="retry">Retry</string>
+    <string name="genres_label">Genres</string>
+    <string name="synopsis_label">Synopsis</string>
+    <string name="title_filter">Filters and ordering</string>
+    <string name="genres">Genres</string>
+    <string name="platforms">Platforms</string>
+    <string name="order_by">Order by</string>
+    <string name="alphabetical">Alphabetical</string>
+    <string name="released_date">Released date</string>
+    <string name="rating">Rating</string>
+    <string name="apply">Apply</string>
+</resources>

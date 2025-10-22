@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Violeta y cian principales -->
+    <color name="primary">#6200EE</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#EADDFF</color>
+    <color name="onPrimaryContainer">#21005D</color>
+
+    <color name="secondary">#00BFA5</color>
+    <color name="onSecondary">#FFFFFF</color>
+
+    <!-- Fondo y superficie -->
+    <color name="background">#FFFFFF</color>
+    <color name="onBackground">#1A1A1A</color>
+    <color name="surface">#F5F5F5</color>
+    <color name="onSurface">#1A1A1A</color>
+
+    <!-- Error -->
+    <color name="error">#B00020</color>
+    <color name="onError">#FFFFFF</color>
+
+    <!-- Outline y variantes -->
+    <color name="outline">#CFCFCF</color>
+    <color name="shadow">#000000</color>
+</resources>

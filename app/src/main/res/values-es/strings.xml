@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NextPlay</string>
+    <string name="title_games">Juegos</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="question_introduction">Que vas a jugar hoy?</string>
+    <string name="error">A ocurrido un error</string>
+    <string name="search">Buscar</string>
+    <string name="game_name_tx">Nombre del juego</string>
+    <string name="retry">Reintentar</string>
+    <string name="genres_label">Generos</string>
+    <string name="synopsis_label">Resumen</string>
+    <string name="title_filter">Filtros y ordenamiento</string>
+    <string name="genres">Generos</string>
+    <string name="platforms">Plataformas</string>
+    <string name="order_by">Ordenar por</string>
+    <string name="alphabetical">Alfabetico</string>
+    <string name="released_date">Fecha de lanzamiento</string>
+    <string name="rating">Puntuacion</string>
+    <string name="apply">Aplicar</string>
+</resources>
